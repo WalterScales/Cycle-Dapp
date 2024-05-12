@@ -1,0 +1,43 @@
+{
+    "domain": "https://app.blockcycle.org/",
+    "graphQL": "",
+    "graphQLkey": "",
+    "algod": {
+        "server": "https://mainnet-api.algonode.cloud/",
+        "port": "",
+        "token": "",
+        "network": "MainNet"
+    },
+    "indexer": {
+        "server": "https://mainnet-idx.algonode.cloud",
+        "port": "",
+        "token": ""
+    },
+    "ipfs": {
+        "display": "https://cloudflare-ipfs.com/ipfs/",
+        "ipfsGateway": "https://ipfs.algonode.xyz/ipfs/",
+        "token": ""
+    },
+    "explorer": "allo.info",
+    "application": {
+        "admin_addr": "",
+        "admin_addr2": "",
+        "app_id": 82774389,
+        "price_id": 82774491,
+        "owner_addr": "",
+        "owner_addr2": "",
+        "owner_addr3": "",
+        "owner_addr4": "",
+        "owner_addr5": "",
+        "owner_addr6": "",
+        "owner_addr7": "",
+        "name": "BlockCycle",
+        "unit": "BC",
+        "fee_amt": 10000,
+        "seed_amt": 5000000
+    },
+    "dev": {
+        "debug_txns": false,
+        "accounts": {}
+    }
+}
